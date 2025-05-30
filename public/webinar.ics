@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Company//AI Webinar//EN
+BEGIN:VEVENT
+UID:ai-in-action-webinar@example.com
+DTSTAMP:20250530T151338Z
+DTSTART:20250611T090000Z
+DTEND:20250611T100000Z
+SUMMARY:AI in Action: Transform Your Finance, Sales and Marketing with Practical Solutions
+DESCRIPTION:Join the webinar via Microsoft Teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODRiMTdiNzgtZDc0NC00ZjhjLWI1NGQtNTFkMjVlZDQzOTE1%40thread.v2/0?context=%7b%22Tid%22%3a%220beb0c35-9cbb-4feb-99e5-589e415c7944%22%2c%22Oid%22%3a%22a7bd09a7-7f9c-46f2-931b-1cd0be2ece99%22%7d
+LOCATION:Online - Microsoft Teams
+END:VEVENT
+END:VCALENDAR
